@@ -1,4 +1,4 @@
-﻿id,last_name,marital_status,gender,annual_income, industry ,zip_code,age_at_issue,member_type,add_members,annual_fee,payment_type,status,start_month,start_day,start_year,end_month,end_day,end_year
+﻿id,last_name,marital_status,gender,annual_income,industry,zip_code,age_at_issue,member_type,add_members,annual_fee,payment_type,status,start_month,start_day,start_year,end_month,end_day,end_year
 A02601,Barrett,Married,M,115613,Consumer Discretionary,80202,28,Gold,3,9000,QUARTERLY,CANCELLED,12,31,2009,2,26,2012
 A00128,Boyd,Married,M,102874,Consumer Staples,80202,43,Platinum,2,15000,ANNUAL,CANCELLED,12,31,2007,2,26,2010
 A00102,Hudson,Married,M,87772,Utilities,80202,45,Silver,1,7000,ANNUAL,CANCELLED,12,31,2007,2,26,2009
